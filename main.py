@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-in in
+
 # Чтение Excel файла
 file_path = 'expert_opinion.xlsx'
 df = pd.read_excel(file_path, index_col=0)
